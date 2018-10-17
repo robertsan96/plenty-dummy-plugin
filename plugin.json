@@ -1,0 +1,8 @@
+{
+    "name"              :"PlentyDummyPlugin",
+    "description"       :"Created in Kassel, Germany",
+    "namespace"         :"PlentyDummyPlugin",
+    "author"            :"Robert San",
+    "type"              :"template",
+    "serviceProvider"   :"PlentyDummyPlugin\\Providers\\PlentyDummyPluginServiceProvider"
+}
