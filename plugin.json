@@ -4,5 +4,5 @@
     "namespace"         :"PlentyDummyPlugin",
     "author"            :"Robert San",
     "type"              :"template",
-    "serviceProvider"   :"PlentyDummyPlugin\\Providers\\PlentyDummyPluginServiceProvider"
+    "serviceProvider"   :"PlentyDummyPlugin\\Providers\\PlentyDummyPluginServiceProvider",
 }
