@@ -5,4 +5,5 @@
     "author"            :"Robert San",
     "type"              :"template",
     "serviceProvider"   :"PlentyDummyPlugin\\Providers\\PlentyDummyPluginServiceProvider",
+    "version"           :"1.0.0"
 }
